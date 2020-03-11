@@ -1,1 +1,1 @@
-Simple Processing Data Processing app
+Simple Data Processing app
